@@ -2,7 +2,8 @@
 	"name": "react-workshop",
 	"version": "1.0.0",
     "engines": {
-        "node": "16.17.0"
+        "node": "16.17.0",
+        "npm": "8.15.0"
     },
 	"description": ":fire: This is a workshop for learning how to build React Applications.",
 	"main": "index.js",

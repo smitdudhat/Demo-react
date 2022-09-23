@@ -35,8 +35,7 @@
         "react-navigation": "^3.9.1",
         "react-render-html": "^0.6.0",
         "express":"*",
-        "body-parser":"*",
-        "bcrypt": "^0.8.5"
+        "body-parser":"*"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.19.1",

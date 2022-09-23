@@ -4,9 +4,11 @@
     "description": ":fire: This is a workshop for learning how to build React Applications.",
     "main": "index.js",
     "scripts": {
+        "start": "NODE_ENV=development nodemon server.js",
         "webpack-dev-server": "webpack-dev-server",
-		"dev": "webpack-dev-server --mode=development",
-		"prod": "webpack --mode=production"
+        "dev:client": "webpack-dev-server --mode=development",
+        "dev:server": "nodemon server.js",
+        "prod": "webpack --mode=production"
     },
     "repository": {
         "type": "git",

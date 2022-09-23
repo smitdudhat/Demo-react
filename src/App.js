@@ -8,9 +8,7 @@ import SinglePost from "./components/SinglePost";
 import CreatePost from "./components/dashboard/posts/CreatePost";
 import AppProvider from "./components/context/AppProvider";
 import Posts from "./components/dashboard/posts/Posts";
-import Pages from "./components/dashboard/pages/Pages";
 import Blogs from "./components/Blogs";
-import Page from "./components/Page";
 
 class App extends React.Component {
 
